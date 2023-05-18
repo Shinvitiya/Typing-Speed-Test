@@ -4,7 +4,7 @@ from generate import TextGenerator
 
 
 class TypeInterface:
-    def __init__(self):git
+    def __init__(self):
 
         self.text = None
         self.stats = False
